@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #search {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #studentForm {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+  }
+  
